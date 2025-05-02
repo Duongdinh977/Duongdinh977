@@ -1,13 +1,12 @@
-<h1 align="center">👋 Xin chào, tôi là Dương Hoàng Đỉnh</h1>
+<h1 align="center">👋 XIN CHÀO, TÔI LÀ DƯƠNG HOÀNG ĐỈNH</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=WELCOME+TO+MY+GITHUB!;I'M+A+BACKEND+DEVELOPER;" alt="Typing SVG" />
 </p>
 
-
 ---
 
-## 🚀 Về tôi
+## 🚀 VỀ TÔI
 
 - 👨‍💻 Tôi là lập trình viên chuyên về **Backend**
 - 💻 Thành thạo các ngôn ngữ: Java, Python, JavaScript, ...
@@ -17,7 +16,7 @@
 
 ---
 
-## 🛠️ Ngôn ngữ lập trình
+## 🛠️ NGÔN NGỮ LẬP TRÌNH
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -29,7 +28,16 @@
 
 ---
 
-## 🧰 Framework & Công nghệ
+## 🗄️ CƠ SỞ DỮ LIỆU
+
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+## 🧰 FRAMEWORK
 
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
@@ -40,7 +48,19 @@
 
 ---
 
-## 📫 Liên hệ với tôi
+## 🧪 CÔNG CỤ
+
+<p>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+</p>
+
+---
+
+## 📫 LIÊN HỆ VỚI TÔI
 
 - 📧 Email: [duonghoangdinh.dev@programmer.net](mailto:duonghoangdinh.dev@programmer.net)
 - 📱 Zalo: 0972319556
