@@ -1,8 +1,9 @@
 <h1 align="center">👋 Xin chào, tôi là Dương Hoàng Đỉnh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Chào+mừng+đến+với+GitHub+của+tôi!;Tôi+là+lập+trình+viên+Backend;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Chao+mung+den+voi+GitHub+cua+toi!;Toi+la+lap+trinh+vien+Backend;" alt="Typing SVG" />
 </p>
+
 
 ---
 
