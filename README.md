@@ -68,4 +68,4 @@
 
 ---
 
-⭐ Cảm ơn bạn đã ghé thăm trang GitHub của tôi!
+⭐ Cảm ơn bạn đã ghé thăm trang GitHub của tôi
